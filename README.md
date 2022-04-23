@@ -1,7 +1,7 @@
 # InfoGAN-with-animefaces-pytorch
 InfoGAN using animeface dataset
 
-Please Read this carefully before run the code.
+Please Read all sections of README.md carefully before run the code.
 
 InfoGAN (https://arxiv.org/abs/1606.03657) is able to learn disentangled representations in a completely unsupervised manner.
 This infoGAN is trained by animeface dataset from (https://www.kaggle.com/datasets/soumikrakshit/anime-faces)

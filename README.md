@@ -7,8 +7,11 @@ This infoGAN is trained by animeface dataset from (https://www.kaggle.com/datase
 There are three versions.
 
 version1: infoGAN using 1 discrete latent variables and 2 continuous latent variables.
+
 version2: infoGAN using 10 discrete latent variables, and 2 continuous latent variables.
+
 version3: infoGAN using 10 discrete latent variables, and 20 continuous latent variables. 
+
 
 Each discrete latent variable is a categorical distribution with 10-dimension. (i.e an example of discrete latent variable is [0, 0, 0, 0, 1, 0, 0, 0, 0, 0] )
 

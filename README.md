@@ -24,7 +24,7 @@ Similarly, two continuous latent codes were not enough to catch continous variat
 
 # Usage
 Make 'checkpoint' directory where your code(.ipynb) exists.
-Make 'data/anime' directory where your code(.ipynb) exists, and in the directory, make your own folder and place anime face data(pictures) in that folder you made.
+Make 'data/anime' directory where your code(.ipynb) exists, and in the directory, make your own folder and place anime face data(pictures) in that folder you made. For my case, too many data harmed the training process. About 20k data were enough, and the train process were more successful than using 200k data.
 In the code, you can see Config block. All hyperparameters including 'num_epochs' is tuned by me to perform at best. Try with your own hyperparameters, but remember that too many epochs will lead the model to cause 'mode collapse' which is a prevailing problem in GANs.
 In the second block of the code, you shold set root directory.
 Then, run your code until last block.

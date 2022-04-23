@@ -26,7 +26,7 @@ make 'data/anime' directory where your code(.ipynb) exists, and in the directory
 In the code, you can see Config block. All hyperparameters including 'num_epochs' is tuned by me to perform at best. Try with your own hyperparameters, but remember that too many epochs will lead the model to cause 'mode collapse' which is a prevailing problem in GANs.
 In the second block of the code, you shold set root directory.
 Then, run your code until last block.
-In the last block of the code, you shold set directory to load your parameters saved during train.
+In the last block of the code, you should set directory to load your parameters saved during train.
 Then, run your final block, which generates images.
 
 # Result

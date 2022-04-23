@@ -33,7 +33,7 @@ Then, run your final block, which generates images.
 
 result of version 1
 
-![1dis_2con](https://user-images.githubusercontent.com/104057435/164868559-8098d71d-f4c8-48b7-9c5d-5d42daec2a02.jpg)
+![화면 캡처 2022-04-23 114937](https://user-images.githubusercontent.com/104057435/164869189-ddd036ed-6fe5-4d33-8215-3f7feef58334.jpg)
 
 result of version 2
 

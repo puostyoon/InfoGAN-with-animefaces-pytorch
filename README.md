@@ -32,9 +32,10 @@ Then, run your final block, which generates images.
 # Result
 result of version 1
 
-![화면 캡처 2022-04-23 114937](https://user-images.githubusercontent.com/104057435/164869189-ddd036ed-6fe5-4d33-8215-3f7feef58334.jpg)
+![화면 캡처 2022-04-23 114937](https://user-images.githubusercontent.com/104057435/164870670-1a40b981-9741-4232-8b0a-e0cc5f84e2d7.png)
 
 result of version 2
+
 ![Epoch_230 Anime](https://user-images.githubusercontent.com/104057435/164868815-323d793b-295b-4719-9143-0970c2bcf40f.png)
 
 result of version 3

@@ -21,8 +21,8 @@ Therefore, I used 10 discrete latent variables, and by varying all of 10 discret
 Similarly, two continuous latent codes were not enough to catch continous variation of data. In this case, using 20 continuous latent codes were also not enough to catch continuous variation. Fixing all 20 continuous latent codes made same results as the result made by varying all 20 continous latent codes, which implies continuous variation was only decided by noise variable z.
 
 # Usage
-make 'checkpoint' directory where your code(.ipynb) exists
-make 'data/anime' directory where your code(.ipynb) exists, and in the directory, make your own folder and place anime face data in that folder you made.
+Make 'checkpoint' directory where your code(.ipynb) exists.
+Make 'data/anime' directory where your code(.ipynb) exists, and in the directory, make your own folder and place anime face data(pictures) in that folder you made.
 In the code, you can see Config block. All hyperparameters including 'num_epochs' is tuned by me to perform at best. Try with your own hyperparameters, but remember that too many epochs will lead the model to cause 'mode collapse' which is a prevailing problem in GANs.
 In the second block of the code, you shold set root directory.
 Then, run your code until last block.

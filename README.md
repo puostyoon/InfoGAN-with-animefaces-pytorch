@@ -29,17 +29,21 @@ Then, run your code until last block.
 In the last block of the code, you shold set directory to load your parameters saved during train.
 Then, run your final block, which generates images.
 
-#Result
-![1dis_2con](https://user-images.githubusercontent.com/104057435/164868559-8098d71d-f4c8-48b7-9c5d-5d42daec2a02.jpg)
+# Result
+
 result of version 1
 
-![Epoch_230 Anime](https://user-images.githubusercontent.com/104057435/164868815-323d793b-295b-4719-9143-0970c2bcf40f.png)
+![1dis_2con](https://user-images.githubusercontent.com/104057435/164868559-8098d71d-f4c8-48b7-9c5d-5d42daec2a02.jpg)
+
 result of version 2
 
-![Epoch_360 Anime](https://user-images.githubusercontent.com/104057435/164868699-03903a9f-6549-4305-85ee-f83714ff9289.png)
+![Epoch_230 Anime](https://user-images.githubusercontent.com/104057435/164868815-323d793b-295b-4719-9143-0970c2bcf40f.png)
+
 result of version 3
 
-#Reference
+![Epoch_360 Anime](https://user-images.githubusercontent.com/104057435/164868699-03903a9f-6549-4305-85ee-f83714ff9289.png)
+
+# Reference
 1. Xi Chen, Yan Duan, Rein Houthooft, John Schulman, Ilya Sutskever, Pieter Abbeel. InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets. https://arxiv.org/abs/1606.03657
 2. pianomania/infoGAN-pytorch https://github.com/pianomania/infoGAN-pytorch
 3. Natsu6767/InfoGAN-PyTorch https://github.com/Natsu6767/InfoGAN-PyTorch

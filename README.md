@@ -30,6 +30,8 @@ In the last block of the code, you shold set directory to load your parameters s
 Then, run your final block, which generates images.
 
 # Result
+
+
 result of version 1
 
 ![화면 캡처 2022-04-23 114937](https://user-images.githubusercontent.com/104057435/164870670-1a40b981-9741-4232-8b0a-e0cc5f84e2d7.png)

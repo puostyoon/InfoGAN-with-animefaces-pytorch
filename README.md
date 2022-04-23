@@ -5,6 +5,7 @@ InfoGAN (https://arxiv.org/abs/1606.03657) is able to learn disentangled represe
 This infoGAN is trained by animeface dataset from (https://www.kaggle.com/datasets/soumikrakshit/anime-faces)
 
 There are three versions.
+
 version1: infoGAN using 1 discrete latent variables and 2 continuous latent variables.
 version2: infoGAN using 10 discrete latent variables, and 2 continuous latent variables.
 version3: infoGAN using 10 discrete latent variables, and 20 continuous latent variables. 

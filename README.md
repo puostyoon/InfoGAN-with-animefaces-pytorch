@@ -15,7 +15,7 @@ version2: infoGAN using 10 discrete latent variables, and 2 continuous latent va
 version3: infoGAN using 10 discrete latent variables, and 20 continuous latent variables. 
 
 
-Each discrete latent variable is a categorical distribution with 10-dimension. (i.e an example of discrete latent variable is [0, 0, 0, 0, 1, 0, 0, 0, 0, 0] )
+Each discrete latent variable is a categorical distribution with 10-dimension. (i.e one hot incoded vector. an example of discrete latent variable is [0, 0, 0, 0, 1, 0, 0, 0, 0, 0] )
 
 One discrete latent variable was unable to catch character identity(who the character is) in the dataset. It seems that because there are too many variants in anime-face dataset(different hair color, different eye sizes, different drawing styles, and so on), a discrete latent code was not enough to catch the character identity of the datasets, and therefore the model is trained to ignore the latent variable.
 
